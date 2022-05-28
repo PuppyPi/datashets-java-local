@@ -1,4 +1,4 @@
-package rebound.richdatashets.impls.localfile;
+package rebound.datashets.impls.localfile;
 
 import java.io.IOException;
 import java.io.InputStream;

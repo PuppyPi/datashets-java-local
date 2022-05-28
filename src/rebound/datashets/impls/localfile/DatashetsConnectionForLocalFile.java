@@ -1,4 +1,4 @@
-package rebound.richdatashets.impls.localfile;
+package rebound.datashets.impls.localfile;
 
 import static java.util.Objects.*;
 import java.io.File;
